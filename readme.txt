@@ -21,3 +21,6 @@ git reset --hard HEAD~2
 
 git checkout -- fileName
 git reset HEAD fileName
+
+ssh-keygen -t rsa -C "412744267@qq.com"
+ssh -v git@github.com  好像不需要这一行
