@@ -5,7 +5,7 @@ Git is free software distributed under the GPL.
 git status
 git diff
 git add 
-git commit -m "提交说明"
+git commit -m "description"
 git log 
 git log --pretty=oneline
 git relog
