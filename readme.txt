@@ -3,6 +3,7 @@ Git is free software distributed under the GPL.
 Good Boy
 one 
 two
+good boy
 
 git status
 git diff
