@@ -7,11 +7,17 @@ good boy
 
 git status
 git diff
+
 git add 
 git commit -m "description"
+
 git log 
 git log --pretty=oneline
 git reflog
+
 git reset --hard HEAD^
 git reset --hard HEAD^^
 git reset --hard HEAD~2
+
+git checkout -- fileName
+git reset HEAD fileName
