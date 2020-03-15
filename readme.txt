@@ -24,3 +24,7 @@ git reset HEAD fileName
 
 ssh-keygen -t rsa -C "412744267@qq.com"
 ssh -v git@github.com  好像不需要这一行
+
+git remote add origin git@server-name:path/repo-name.git
+git push -u origin master
+git push origin master
